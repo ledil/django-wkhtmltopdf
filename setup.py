@@ -13,7 +13,7 @@ setup(
     license='MIT',
     author=wkhtmltopdf.__author__,
     author_email='admin@incuna.com',
-    url='https://github.com/incuna/django-wkhtmltopdf',
+    url='https://github.com/ledil/django-wkhtmltopdf',
     zip_safe=False,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
